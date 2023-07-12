@@ -1,6 +1,6 @@
 # Pomodoro
 ### 플러터의 대표적인 예제(포모도로 어플리케이션)
-
+<img src = "start.png" alt="App Start Screen" height="500px"/><img src = "GoonTime.png" alt="App Stop Screen" height="500px"/>
 
 ## 프로젝트 요약
 ![Langauge:Dart](https://img.shields.io/badge/Language-Flutter-blue) ![platform:CrossPlatForm](https://img.shields.io/badge/Platform-CrossPlatfrom-blue)
